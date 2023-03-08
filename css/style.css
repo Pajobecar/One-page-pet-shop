@@ -181,10 +181,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	position: relative;
 	font-family: 'Rochester', cursive;
 	color: #fff;
-	font-size: 10em;
+	font-size: 7rem;
 	font-weight: 400;
 	margin-top: 0;
-	bottom: 20vh;
+	bottom: 15vh;
 	font-family: 'Lobster', cursive !important;
 	color: #F8ECD1;
 }
